@@ -1,6 +1,6 @@
 # fresh_news
 
-A new Flutter project.
+FLutter MVVM App
 
 ## Getting Started
 
